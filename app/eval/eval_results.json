@@ -1,0 +1,148 @@
+[
+  {
+    "id": "q001",
+    "question": "What is the minimum attendance required under the campus code of conduct?",
+    "expected_answer": "A minimum attendance of 75% is required.",
+    "generated_answer": "The campus code of conduct requires a minimum attendance of **75 %**. 【skcet_code_of_conduct.pdf, chunk 8】【skcet_code_of_conduct.pdf, chunk 7】",
+    "expected_source": "skcet_code_of_conduct.pdf",
+    "retrieved_citations": [
+      {
+        "source": "skcet_code_of_conduct.pdf, chunk 8",
+        "text": "a minimum attendance of 75% to meet the mandatory attendance criteria. 6. The entire faculty should be addressed as Dr/ Prof. or Sir/ Madam. All non-teaching staff to be addressed as Sir/Madam. 7. Students are not permitted to leave the class during the session without the permission of the respective teacher. 8. In case of extenuating circumstance with due permission from the tutor or Head of the department, student can leave the campus. The authenticity of the reason, the student is leaving will be checked by the tutor by calling the parent/guardian. 9. Break time should be utilized wisely and"
+      },
+      {
+        "source": "skcet_code_of_conduct.pdf, chunk 7",
+        "text": "college ID cards at all times during their stay on the college premises. 2. Students are expected to maintain the highest standards of discipline and dignity both on and off the college campus 3. Students are required to adhere to the rules and regulations of the college and uphold the esteem of the institution. 4. All students are expected to be present in class at the scheduled time. Latecomers will not be entertained. 5. All students are required to maintain a minimum attendance of 75% to meet the mandatory attendance criteria. 6. The entire faculty should be addressed as Dr/"
+      }
+    ],
+    "latency_ms": 3941.83
+  },
+  {
+    "id": "q002",
+    "question": "What must students wear while staying on the college premises?",
+    "expected_answer": "Students must wear their college ID cards at all times while on the college premises.",
+    "generated_answer": "Students must wear their college ID cards at all times while they are on the college premises【skcet_code_of_conduct.pdf, chunk 6】.",
+    "expected_source": "skcet_code_of_conduct.pdf",
+    "retrieved_citations": [
+      {
+        "source": "skcet_code_of_conduct.pdf, chunk 6",
+        "text": "is not acceptable. 1 vi. The College, while determining whether or not to exercise such off-campus jurisdiction in situations enumerated as above. • The college shall consider the seriousness of alleged offense and the risk of harm involved. • Whether the victim(s) are members of the campus community and whether the off- campus conduct is part of series of actions, which occurred both on and off campus. 2. Campus Code of Conduct 1. All students are required to wear their college ID cards at all times during their stay on the college premises. 2. Students are expected to maintain the"
+      }
+    ],
+    "latency_ms": 694.04
+  },
+  {
+    "id": "q003",
+    "question": "When are students expected to be present in class?",
+    "expected_answer": "Students are expected to be present at the scheduled time; latecomers will not be entertained.",
+    "generated_answer": "Students must be present in class at the scheduled time; latecomers will not be entertained. 【skcet_code_of_conduct.pdf, chunk 7】",
+    "expected_source": "skcet_code_of_conduct.pdf",
+    "retrieved_citations": [
+      {
+        "source": "skcet_code_of_conduct.pdf, chunk 7",
+        "text": "college ID cards at all times during their stay on the college premises. 2. Students are expected to maintain the highest standards of discipline and dignity both on and off the college campus 3. Students are required to adhere to the rules and regulations of the college and uphold the esteem of the institution. 4. All students are expected to be present in class at the scheduled time. Latecomers will not be entertained. 5. All students are required to maintain a minimum attendance of 75% to meet the mandatory attendance criteria. 6. The entire faculty should be addressed as Dr/"
+      }
+    ],
+    "latency_ms": 1009.53
+  },
+  {
+    "id": "q004",
+    "question": "How should a student submit a leave application?",
+    "expected_answer": "The leave application should be submitted well in advance to the concerned tutor.",
+    "generated_answer": "A student must submit the leave application **well in advance** to the appropriate tutor (or, for on‑duty leave, to the relevant Head of Department) and provide any supporting proof documents for record‑keeping【skcet_code_of_conduct.pdf, chunk 9】【skcet_code_of_conduct.pdf, chunk 14】",
+    "expected_source": "skcet_code_of_conduct.pdf",
+    "retrieved_citations": [
+      {
+        "source": "skcet_code_of_conduct.pdf, chunk 14",
+        "text": "the permission of the principal. 3 24. Students who intend to represent the college in intercollegiate events shall take prior permission from the concerned Head of the Department and the selection parameters will be fixed by the respective department. 25. On Duty leave applications should be submitted well in advance for approval by the respective HoDs. The supporting proof documents should be submitted to the concerned tutors for record purpose. 26. Political activity in any form is not permitted in the College campus. Unauthorized meetings, religious functions, propaganda work, processions or fund collections are forbidden within the college, hostels and"
+      },
+      {
+        "source": "skcet_code_of_conduct.pdf, chunk 9",
+        "text": "is leaving will be checked by the tutor by calling the parent/guardian. 9. Break time should be utilized wisely and should not be extended. 10. Students are required to strictly adhere to the dress code. For boys, the prescribed attire includes formal pants and shirts with formal shoes. Girls are expected to wear churidar with a dupatta and loose-fitting attire. 11. All leave application shall be submitted well in advance to the concerned tutors. 2 12. Any form of tattooing, body piercing, hair styling, or actions contrary to political, social, or cultural values, beliefs, and norms will be dealt strictly."
+      }
+    ],
+    "latency_ms": 1019.67
+  },
+  {
+    "id": "q005",
+    "question": "What permission is needed for a student to leave class during a session?",
+    "expected_answer": "The student needs permission from the respective teacher.",
+    "generated_answer": "Students must obtain permission from the respective teacher before leaving the class during a session. 【skcet_code_of_conduct.pdf, chunk 8】",
+    "expected_source": "skcet_code_of_conduct.pdf",
+    "retrieved_citations": [
+      {
+        "source": "skcet_code_of_conduct.pdf, chunk 8",
+        "text": "a minimum attendance of 75% to meet the mandatory attendance criteria. 6. The entire faculty should be addressed as Dr/ Prof. or Sir/ Madam. All non-teaching staff to be addressed as Sir/Madam. 7. Students are not permitted to leave the class during the session without the permission of the respective teacher. 8. In case of extenuating circumstance with due permission from the tutor or Head of the department, student can leave the campus. The authenticity of the reason, the student is leaving will be checked by the tutor by calling the parent/guardian. 9. Break time should be utilized wisely and"
+      }
+    ],
+    "latency_ms": 1690.77
+  },
+  {
+    "id": "q006",
+    "question": "What should a student do before representing the college at an intercollegiate event?",
+    "expected_answer": "The student must obtain prior permission from the concerned Head of the Department. The department fixes the selection parameters.",
+    "generated_answer": "A student must obtain prior permission from the appropriate Head of Department before representing the college in an intercollegiate event (the department will also set the selection criteria)【skcet_code_of_conduct.pdf, chunk 14】.",
+    "expected_source": "skcet_code_of_conduct.pdf",
+    "retrieved_citations": [
+      {
+        "source": "skcet_code_of_conduct.pdf, chunk 14",
+        "text": "the permission of the principal. 3 24. Students who intend to represent the college in intercollegiate events shall take prior permission from the concerned Head of the Department and the selection parameters will be fixed by the respective department. 25. On Duty leave applications should be submitted well in advance for approval by the respective HoDs. The supporting proof documents should be submitted to the concerned tutors for record purpose. 26. Political activity in any form is not permitted in the College campus. Unauthorized meetings, religious functions, propaganda work, processions or fund collections are forbidden within the college, hostels and"
+      },
+      {
+        "source": "college_rules.txt, chunk 1",
+        "text": "(CGPA) represents a student's overall academic performance across completed semesters. Examination fees must be paid before the deadline announced by the college administration. Students should contact the examination cell for clarification about examination schedules, hall tickets, and eligibility requirements."
+      }
+    ],
+    "latency_ms": 1176.82
+  },
+  {
+    "id": "q007",
+    "question": "What financial responsibility does a student have if their activities damage college property?",
+    "expected_answer": "The student is responsible for the replacement or repair cost and a penalty.",
+    "generated_answer": "If a student’s activities damage college property, the student must pay for the replacement or repair costs and also incur a penalty. 【skcet_code_of_conduct.pdf, chunk 13】",
+    "expected_source": "skcet_code_of_conduct.pdf",
+    "retrieved_citations": [
+      {
+        "source": "skcet_code_of_conduct.pdf, chunk 13",
+        "text": "deface the college and compromise the academic ambiance. 20. Adhere to safety precautions at all times during both class and laboratory hours. 21. In the event of damage to college property due to student activities, the students are responsible for bearing the cost of replacement/repair along with a penalty. 22. Students are not allowed to conduct any unauthorized celebrations inside the college campus. 23. Students are not permitted to distribute or display materials, notices, pamphlets, banners in the campus without the permission of the principal. 3 24. Students who intend to represent the college in intercollegiate events shall take prior"
+      }
+    ],
+    "latency_ms": 1027.78
+  },
+  {
+    "id": "q008",
+    "question": "What actions may follow a violation of the campus rules?",
+    "expected_answer": "Possible consequences include a warning, a meeting with parents, corrective measures, or punishment by higher college or state legal authorities.",
+    "generated_answer": "A violation of the campus rules can lead to a range of disciplinary actions, including:\n\n* Issuing a warning and/or meeting with the student’s parents.  \n* Referring the case to the discipline committee for a detailed inquiry, with the report then sent to higher authorities for follow‑up action.  \n* Imposing restrictions on the use of campus facilities for a set period.  \n* Suspending the student for a specified period.  \n* Other corrective measures or punishment by the college’s higher authorities, and possible legal action.  \n\nThese actions are described in the code of conduct sections on penalties and disciplinary procedures【skcet_code_of_conduct.pdf, chunk 18】【skcet_code_of_conduct.pdf, chunk 15】.",
+    "expected_source": "skcet_code_of_conduct.pdf",
+    "retrieved_citations": [
+      {
+        "source": "skcet_code_of_conduct.pdf, chunk 18",
+        "text": "and college properties and facilities. 4 Action on the above I. Warning: This indicates that the action of the student was in violation of the code, and any acts of misconduct shall result in severe disciplinary action. II. In case of misconduct, the matter will be referred to the discipline committee, which will conduct a detailed inquiry. The report of the inquiry will then be presented to the higher authority for follow-up action. III. Imposition of restrictions on the usage of various campus facilities for a specified period of time. IV. A student may face suspension for a specified period,"
+      },
+      {
+        "source": "skcet_code_of_conduct.pdf, chunk 15",
+        "text": "the College campus. Unauthorized meetings, religious functions, propaganda work, processions or fund collections are forbidden within the college, hostels and outside the campus. 27. Ragging is an offence and enforceable by law. 28. Misbehavior towards girl students, like use of threat, physical or psychological harassment will be dealt as per the legal provisions. Above mentioned misbehavior towards any of the institutional personnel will also be dealt as per legal provisions. 29. Any violation of the above rules will invite penalty in the form of warning, parents meet, corrective measures or punishment by higher authorities of the college and legal authorities"
+      }
+    ],
+    "latency_ms": 1324.71
+  },
+  {
+    "id": "q009",
+    "question": "At what time does the college library close on weekdays?",
+    "expected_answer": "This information is not stated in the provided document.",
+    "generated_answer": "I cannot answer this from the provided documents.",
+    "expected_source": "skcet_code_of_conduct.pdf",
+    "retrieved_citations": [],
+    "latency_ms": 2048.78
+  },
+  {
+    "id": "q010",
+    "question": "What is the exact deadline for paying semester examination fees?",
+    "expected_answer": "This information is not stated in the provided document.",
+    "generated_answer": "I cannot answer this from the provided documents.",
+    "expected_source": "skcet_code_of_conduct.pdf",
+    "retrieved_citations": [],
+    "latency_ms": 1023.89
+  }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "class": "helmet",
+        "confidence": 0.95
+    },
+    {
+        "class": "person",
+        "confidence": 0.87
+    },
+    {
+        "class": "helmet",
+        "confidence": 0.72
+    }
+]

@@ -1,0 +1,25 @@
+{
+  "mode": "hybrid+rerank",
+  "questions_evaluated": 8,
+  "negative_questions_skipped": 2,
+  "Hit@5": 0.875,
+  "Recall@5": 0.625,
+  "MRR": 0.7083,
+  "MAP": 0.4271,
+  "by_type": {
+    "factual": {
+      "Hit@5": 0.8333,
+      "MRR": 0.8333
+    },
+    "procedural": {
+      "Hit@5": 1.0,
+      "MRR": 0.3333
+    }
+  },
+  "by_difficulty": {
+    "unspecified": {
+      "Hit@5": 0.875,
+      "MRR": 0.7083
+    }
+  }
+}

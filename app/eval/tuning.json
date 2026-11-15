@@ -1,0 +1,477 @@
+[
+  {
+    "id": "q001",
+    "question": "What is the minimum attendance percentage required for students?",
+    "answer": "Students must maintain a minimum attendance of 75%.",
+    "relevant_chunks": [
+      3
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "All students are required to maintain a minimum attendance of 75% to meet the mandatory attendance criteria.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "id": "q002",
+    "question": "Are students required to wear their college identity cards?",
+    "answer": "Yes. Students are required to wear their college identity cards.",
+    "relevant_chunks": [
+      2,
+      3
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "All students are required to wear their college ID cards at all times during their stay on the college premises.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "id": "q003",
+    "question": "When should students arrive for their scheduled classes?",
+    "answer": "Students should be present at the scheduled time for their classes.",
+    "relevant_chunks": [
+      3
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "All students are expected to be present in class at the scheduled time. Latecomers will not be entertained.",
+    "difficulty": "easy",
+    "type": "procedural"
+  },
+  {
+    "id": "q004",
+    "question": "To whom should students submit leave applications, and when?",
+    "answer": "Students should submit leave applications to their tutor in advance.",
+    "relevant_chunks": [
+      4,
+      5,
+      7,
+      8
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "All leave application shall be submitted well in advance to the concerned tutors.",
+    "difficulty": "medium",
+    "type": "procedural"
+  },
+  {
+    "id": "q005",
+    "question": "Whose permission is required for a student to leave a class?",
+    "answer": "Students must obtain permission from the respective teacher before leaving the class.",
+    "relevant_chunks": [
+      3,
+      4,
+      7
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "Students are not permitted to leave the class during the session without the permission of the respective teacher.",
+    "difficulty": "easy",
+    "type": "procedural"
+  },
+  {
+    "id": "q006",
+    "question": "What permission is required to participate in an intercollegiate event, and who determines the selection parameters?",
+    "answer": "Prior permission from the Head of the Department (HOD) is required. The department determines the selection parameters.",
+    "relevant_chunks": [
+      7
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "Students who intend to represent the college in intercollegiate events shall take prior permission from the concerned Head of the Department and the selection parameters will be fixed by the respective department.",
+    "difficulty": "medium",
+    "type": "procedural"
+  },
+  {
+    "id": "q007",
+    "question": "Who bears the cost if a student damages college property?",
+    "answer": "The student is responsible for the replacement or repair cost and may also be required to pay a penalty.",
+    "relevant_chunks": [
+      7
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "In the event of damage to college property due to student activities, the students are responsible for bearing the cost of replacement/repair along with a penalty.",
+    "difficulty": "medium",
+    "type": "conditional"
+  },
+  {
+    "id": "q008",
+    "question": "What actions may be taken when a student violates college rules?",
+    "answer": "Depending on the violation, disciplinary action may include a warning, restriction of facilities, suspension, or other punishment.",
+    "relevant_chunks": [
+      8,
+      9
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "Any violation of the above rules will invite penalty in the form of warning, parents meet, corrective measures or punishment by higher authorities of the college and legal authorities of the state.",
+    "difficulty": "medium",
+    "type": "conditional"
+  },
+  {
+    "id": "q009",
+    "question": "What time does the college library close?",
+    "answer": "The exact library closing time is not specified in the available source material.",
+    "relevant_chunks": [],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "negative"
+  },
+  {
+    "id": "q010",
+    "question": "What is the exact deadline for paying semester examination fees?",
+    "answer": "The exact semester examination fee payment deadline is not specified in the available source material.",
+    "relevant_chunks": [],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "negative"
+  },
+  {
+    "id": "q011",
+    "question": "How should students address faculty members and non-teaching staff?",
+    "answer": "Faculty should be addressed as Dr., Prof., Sir, or Madam, and non-teaching staff as Sir or Madam.",
+    "relevant_chunks": [
+      5
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "id": "q012",
+    "question": "Can a student leave the campus without permission?",
+    "answer": "Students need due permission from the tutor or Head of Department in the specified circumstances before leaving campus.",
+    "relevant_chunks": [
+      5
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "id": "q013",
+    "question": "Who verifies a student's reason for leaving the campus?",
+    "answer": "The tutor checks the authenticity of the reason by contacting the parent or guardian.",
+    "relevant_chunks": [
+      5
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "id": "q014",
+    "question": "What is the rule regarding break time?",
+    "answer": "Students should use break time wisely and must not extend it.",
+    "relevant_chunks": [
+      5
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "id": "q015",
+    "question": "When should students submit leave applications to their tutors?",
+    "answer": "Leave applications should be submitted well in advance to the concerned tutors.",
+    "relevant_chunks": [
+      6
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "procedural"
+  },
+  {
+    "id": "q016",
+    "question": "What attire is prescribed for boys under the campus dress code?",
+    "answer": "Formal pants, shirts, and formal shoes are prescribed.",
+    "relevant_chunks": [
+      5
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "id": "q017",
+    "question": "What attire is prescribed for girls under the campus dress code?",
+    "answer": "The stated dress code prescribes churidar with a dupatta and loose-fitting attire.",
+    "relevant_chunks": [
+      5
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "id": "q018",
+    "question": "What does the code say about tattoos, body piercing, and hair styling?",
+    "answer": "The handbook says these matters, along with actions contrary to specified values and norms, will be dealt with strictly.",
+    "relevant_chunks": [
+      6
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "medium",
+    "type": "factual"
+  },
+  {
+    "id": "q019",
+    "question": "Who must approve an on-duty leave application?",
+    "answer": "The respective Head of Department must approve the on-duty leave application.",
+    "relevant_chunks": [
+      9
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "procedural"
+  },
+  {
+    "id": "q020",
+    "question": "What documents must be submitted for on-duty leave?",
+    "answer": "Supporting proof documents must be submitted to the concerned tutor for record purposes.",
+    "relevant_chunks": [
+      9
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "medium",
+    "type": "procedural"
+  },
+  {
+    "id": "q021",
+    "question": "Can students organize celebrations inside campus without authorization?",
+    "answer": "No. Unauthorized celebrations inside the campus are not allowed.",
+    "relevant_chunks": [
+      8
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "id": "q022",
+    "question": "Can a student distribute posters or pamphlets on campus without approval?",
+    "answer": "No. Permission from the principal is required to distribute or display materials such as notices, pamphlets, or banners.",
+    "relevant_chunks": [
+      8
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "medium",
+    "type": "factual"
+  },
+  {
+    "id": "q023",
+    "question": "Are political activities permitted on the college campus?",
+    "answer": "Political activity in any form is not permitted on campus.",
+    "relevant_chunks": [
+      9
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "id": "q024",
+    "question": "What does the handbook state about unauthorized meetings and processions?",
+    "answer": "Unauthorized meetings, religious functions, propaganda work, processions, and fund collections are forbidden in the specified college and hostel areas.",
+    "relevant_chunks": [
+      9
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "medium",
+    "type": "factual"
+  },
+  {
+    "id": "q025",
+    "question": "Is ragging merely a college disciplinary issue according to the handbook?",
+    "answer": "No. The handbook states that ragging is an offence enforceable by law.",
+    "relevant_chunks": [
+      2
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "id": "q026",
+    "question": "How may harassment or threats toward students be handled?",
+    "answer": "The handbook states that specified forms of misbehavior and harassment will be dealt with under applicable legal provisions.",
+    "relevant_chunks": [
+      2,
+      9
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "medium",
+    "type": "factual"
+  },
+  {
+    "id": "q027",
+    "question": "What happens after a misconduct case is referred to the discipline committee?",
+    "answer": "The committee conducts a detailed inquiry and presents its report to the higher authority for follow-up action.",
+    "relevant_chunks": [
+      11
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "medium",
+    "type": "multi_chunk"
+  },
+  {
+    "id": "q028",
+    "question": "What disciplinary actions may be imposed besides a warning?",
+    "answer": "Possible actions include restrictions on campus facilities, suspension for a specified period, and other appropriate punishment.",
+    "relevant_chunks": [
+      9
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "medium",
+    "type": "multi_chunk"
+  },
+  {
+    "id": "q029",
+    "question": "What happens if a student's actions damage college property?",
+    "answer": "The student is responsible for the replacement or repair costs along with a penalty.",
+    "relevant_chunks": [
+      8
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "paraphrase"
+  },
+  {
+    "id": "q030",
+    "question": "What prior approval is needed to participate in an intercollegiate event representing the college?",
+    "answer": "Prior permission from the concerned Head of Department is required, and the department fixes the selection parameters.",
+    "relevant_chunks": [
+      8
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "medium",
+    "type": "paraphrase"
+  },
+  {
+    "id": "q031",
+    "question": "A student wants to leave class during a lecture and leave campus afterward. What permissions are relevant?",
+    "answer": "Permission from the respective teacher is required to leave class during a session. Leaving campus requires the specified permission from the tutor or Head of Department in applicable circumstances.",
+    "relevant_chunks": [
+      4,
+      5
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "hard",
+    "type": "multi_chunk"
+  },
+  {
+    "id": "q032",
+    "question": "A student representing the college at an event needs leave from regular academic activities. What should they verify about permission and documentation?",
+    "answer": "Prior permission from the concerned Head of Department is required for representing the college. On-duty leave must be approved by the respective Head of Department, with supporting proof submitted to the concerned tutor.",
+    "relevant_chunks": [
+      8,
+      9
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "hard",
+    "type": "multi_chunk"
+  },
+  {
+    "id": "q033",
+    "question": "What is the minimum attendance percentage, and what is expected of students who arrive late?",
+    "answer": "Students must maintain at least 75% attendance and are expected to arrive at the scheduled class time; latecomers will not be entertained.",
+    "relevant_chunks": [
+      4
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "medium",
+    "type": "multi_chunk"
+  },
+  {
+    "id": "q034",
+    "question": "How do the campus rules address discipline both on and off campus?",
+    "answer": "Students are expected to maintain high standards of discipline and dignity both on and off campus and adhere to college rules and regulations.",
+    "relevant_chunks": [
+      2,
+      4
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "medium",
+    "type": "factual"
+  },
+  {
+    "id": "q035",
+    "question": "Can I get the exact library closing time from the campus code of conduct?",
+    "answer": "The available code-of-conduct information does not establish the exact library closing time.",
+    "relevant_chunks": [],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "negative"
+  },
+  {
+    "id": "q036",
+    "question": "What is the exact examination fee deadline for this semester?",
+    "answer": "The exact deadline is not established by the available handbook information. Students should check the official announcement from the college administration.",
+    "relevant_chunks": [],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "negative"
+  },
+  {
+    "id": "q037",
+    "question": "How much is the fine in rupees for damaging a classroom desk?",
+    "answer": "The available rule establishes responsibility for repair or replacement costs and a penalty, but does not specify an exact amount.",
+    "relevant_chunks": [],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "negative"
+  },
+  {
+    "id": "q038",
+    "question": "Which faculty member is assigned as my personal tutor?",
+    "answer": "The handbook information does not identify an individual student's assigned tutor.",
+    "relevant_chunks": [],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "negative"
+  },
+  {
+    "id": "q039",
+    "question": "What is the exact number of days a student will be suspended for a first violation?",
+    "answer": "The available rules describe possible suspension but do not establish an exact duration for a first violation.",
+    "relevant_chunks": [],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "medium",
+    "type": "negative"
+  },
+  {
+    "id": "q040",
+    "question": "What is the current attendance percentage recorded for a particular student?",
+    "answer": "The code of conduct specifies a minimum attendance requirement, but it does not provide an individual student's attendance record.",
+    "relevant_chunks": [],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "",
+    "difficulty": "easy",
+    "type": "negative"
+  }
+]

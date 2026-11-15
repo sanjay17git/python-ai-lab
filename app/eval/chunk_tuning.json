@@ -1,0 +1,252 @@
+[
+  {
+    "config": {
+      "size": 75,
+      "overlap": 15
+    },
+    "chunks": 147,
+    "mode": "hybrid+rerank",
+    "questions_evaluated": 32,
+    "negative_questions_skipped": 8,
+    "Hit@5": 0.2812,
+    "Recall@5": 0.2292,
+    "MRR": 0.1104,
+    "MAP": 0.087,
+    "by_type": {
+      "factual": {
+        "Hit@5": 0.375,
+        "MRR": 0.1427
+      },
+      "procedural": {
+        "Hit@5": 0.2857,
+        "MRR": 0.1071
+      },
+      "conditional": {
+        "Hit@5": 0.0,
+        "MRR": 0.0
+      },
+      "multi_chunk": {
+        "Hit@5": 0.2,
+        "MRR": 0.1
+      },
+      "paraphrase": {
+        "Hit@5": 0.0,
+        "MRR": 0.0
+      }
+    },
+    "by_difficulty": {
+      "easy": {
+        "Hit@5": 0.3125,
+        "MRR": 0.1375
+      },
+      "medium": {
+        "Hit@5": 0.2143,
+        "MRR": 0.0595
+      },
+      "hard": {
+        "Hit@5": 0.5,
+        "MRR": 0.25
+      }
+    }
+  },
+  {
+    "config": {
+      "size": 100,
+      "overlap": 20
+    },
+    "chunks": 110,
+    "mode": "hybrid+rerank",
+    "questions_evaluated": 32,
+    "negative_questions_skipped": 8,
+    "Hit@5": 0.25,
+    "Recall@5": 0.2188,
+    "MRR": 0.1354,
+    "MAP": 0.112,
+    "by_type": {
+      "factual": {
+        "Hit@5": 0.375,
+        "MRR": 0.2188
+      },
+      "procedural": {
+        "Hit@5": 0.1429,
+        "MRR": 0.0476
+      },
+      "conditional": {
+        "Hit@5": 0.0,
+        "MRR": 0.0
+      },
+      "multi_chunk": {
+        "Hit@5": 0.2,
+        "MRR": 0.1
+      },
+      "paraphrase": {
+        "Hit@5": 0.0,
+        "MRR": 0.0
+      }
+    },
+    "by_difficulty": {
+      "easy": {
+        "Hit@5": 0.3125,
+        "MRR": 0.1458
+      },
+      "medium": {
+        "Hit@5": 0.1429,
+        "MRR": 0.1071
+      },
+      "hard": {
+        "Hit@5": 0.5,
+        "MRR": 0.25
+      }
+    }
+  },
+  {
+    "config": {
+      "size": 150,
+      "overlap": 30
+    },
+    "chunks": 74,
+    "mode": "hybrid+rerank",
+    "questions_evaluated": 32,
+    "negative_questions_skipped": 8,
+    "Hit@5": 0.5312,
+    "Recall@5": 0.4453,
+    "MRR": 0.3516,
+    "MAP": 0.2969,
+    "by_type": {
+      "factual": {
+        "Hit@5": 0.375,
+        "MRR": 0.2083
+      },
+      "procedural": {
+        "Hit@5": 0.5714,
+        "MRR": 0.5
+      },
+      "conditional": {
+        "Hit@5": 1.0,
+        "MRR": 1.0
+      },
+      "multi_chunk": {
+        "Hit@5": 0.8,
+        "MRR": 0.4167
+      },
+      "paraphrase": {
+        "Hit@5": 0.5,
+        "MRR": 0.1667
+      }
+    },
+    "by_difficulty": {
+      "easy": {
+        "Hit@5": 0.3125,
+        "MRR": 0.2396
+      },
+      "medium": {
+        "Hit@5": 0.7143,
+        "MRR": 0.4405
+      },
+      "hard": {
+        "Hit@5": 1.0,
+        "MRR": 0.625
+      }
+    }
+  },
+  {
+    "config": {
+      "size": 200,
+      "overlap": 40
+    },
+    "chunks": 55,
+    "mode": "hybrid+rerank",
+    "questions_evaluated": 32,
+    "negative_questions_skipped": 8,
+    "Hit@5": 0.3438,
+    "Recall@5": 0.276,
+    "MRR": 0.1724,
+    "MAP": 0.1271,
+    "by_type": {
+      "factual": {
+        "Hit@5": 0.3125,
+        "MRR": 0.174
+      },
+      "procedural": {
+        "Hit@5": 0.2857,
+        "MRR": 0.2143
+      },
+      "conditional": {
+        "Hit@5": 1.0,
+        "MRR": 0.4167
+      },
+      "multi_chunk": {
+        "Hit@5": 0.2,
+        "MRR": 0.04
+      },
+      "paraphrase": {
+        "Hit@5": 0.5,
+        "MRR": 0.1
+      }
+    },
+    "by_difficulty": {
+      "easy": {
+        "Hit@5": 0.375,
+        "MRR": 0.2052
+      },
+      "medium": {
+        "Hit@5": 0.2857,
+        "MRR": 0.1452
+      },
+      "hard": {
+        "Hit@5": 0.5,
+        "MRR": 0.1
+      }
+    }
+  },
+  {
+    "config": {
+      "size": 250,
+      "overlap": 50
+    },
+    "chunks": 44,
+    "mode": "hybrid+rerank",
+    "questions_evaluated": 32,
+    "negative_questions_skipped": 8,
+    "Hit@5": 0.25,
+    "Recall@5": 0.2135,
+    "MRR": 0.125,
+    "MAP": 0.088,
+    "by_type": {
+      "factual": {
+        "Hit@5": 0.375,
+        "MRR": 0.1875
+      },
+      "procedural": {
+        "Hit@5": 0.1429,
+        "MRR": 0.0714
+      },
+      "conditional": {
+        "Hit@5": 0.0,
+        "MRR": 0.0
+      },
+      "multi_chunk": {
+        "Hit@5": 0.2,
+        "MRR": 0.1
+      },
+      "paraphrase": {
+        "Hit@5": 0.0,
+        "MRR": 0.0
+      }
+    },
+    "by_difficulty": {
+      "easy": {
+        "Hit@5": 0.3125,
+        "MRR": 0.1406
+      },
+      "medium": {
+        "Hit@5": 0.1429,
+        "MRR": 0.0893
+      },
+      "hard": {
+        "Hit@5": 0.5,
+        "MRR": 0.25
+      }
+    }
+  }
+]

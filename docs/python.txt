@@ -1,0 +1,1 @@
+If you can already write a venv setup, a function with type hints, and NumPy dot/norm/argsort from memory, do the final block (cosine similarity) and move on to Day 2. [Guessing] Your LeetCode work may have been in Java or C++, so assume Python is the weaker link until you’ve tested it.

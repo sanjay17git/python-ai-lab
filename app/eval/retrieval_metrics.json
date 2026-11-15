@@ -1,0 +1,141 @@
+{
+  "documents_loaded": 1,
+  "chunks_indexed": 111,
+  "k": 5,
+  "questions_evaluated": 8,
+  "questions_skipped": 0,
+  "hit_at_5": 1.0,
+  "mrr": 0.775,
+  "details": [
+    {
+      "id": "q001",
+      "question": "What is the minimum attendance required under the campus code of conduct?",
+      "relevant_chunks": [
+        5,
+        6
+      ],
+      "retrieved_chunks": [
+        6,
+        5,
+        4,
+        0,
+        1
+      ],
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "q002",
+      "question": "What must students wear while staying on the college premises?",
+      "relevant_chunks": [
+        4
+      ],
+      "retrieved_chunks": [
+        4,
+        5,
+        7,
+        29,
+        11
+      ],
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "q003",
+      "question": "When are students expected to be present in class?",
+      "relevant_chunks": [
+        5
+      ],
+      "retrieved_chunks": [
+        5,
+        9,
+        53,
+        14,
+        49
+      ],
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "q004",
+      "question": "How should a student submit a leave application?",
+      "relevant_chunks": [
+        7
+      ],
+      "retrieved_chunks": [
+        12,
+        7,
+        62,
+        99,
+        98
+      ],
+      "hit_at_5": true,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "id": "q005",
+      "question": "What permission is needed for a student to leave class during a session?",
+      "relevant_chunks": [
+        6
+      ],
+      "retrieved_chunks": [
+        6,
+        12,
+        15,
+        102,
+        47
+      ],
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "q006",
+      "question": "What should a student do before representing the college at an intercollegiate event?",
+      "relevant_chunks": [
+        14
+      ],
+      "retrieved_chunks": [
+        12,
+        11,
+        46,
+        5,
+        14
+      ],
+      "hit_at_5": true,
+      "reciprocal_rank": 0.2
+    },
+    {
+      "id": "q007",
+      "question": "What financial responsibility does a student have if their activities damage college property?",
+      "relevant_chunks": [
+        11
+      ],
+      "retrieved_chunks": [
+        11,
+        15,
+        16,
+        17,
+        2
+      ],
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "q008",
+      "question": "What actions may follow a violation of the campus rules?",
+      "relevant_chunks": [
+        13,
+        14
+      ],
+      "retrieved_chunks": [
+        16,
+        13,
+        2,
+        8,
+        17
+      ],
+      "hit_at_5": true,
+      "reciprocal_rank": 0.5
+    }
+  ]
+}

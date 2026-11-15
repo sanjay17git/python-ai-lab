@@ -1,0 +1,109 @@
+[
+  {
+    "id": "h001",
+    "question": "What attendance level is needed to be eligible for semester examinations?",
+    "answer": "Students must maintain at least 75% attendance.",
+    "relevant_chunks": [
+      3,
+      4
+    ],
+    "source_file": "college_rules.txt; skcet_code_of_conduct.pdf",
+    "source_passage": "Students must maintain a minimum attendance of 75% to be eligible to write semester examinations.",
+    "type": "factual"
+  },
+  {
+    "id": "h002",
+    "question": "Which staff member should a student contact before leaving the college campus?",
+    "answer": "The student needs permission from the tutor or Head of the Department, in extenuating circumstances.",
+    "relevant_chunks": [4,
+      5
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "In case of extenuating circumstance with due permission from the tutor or Head of the department, student can leave the campus.",
+    "type": "factual"
+  },
+  {
+    "id": "h003",
+    "question": "How does the tutor confirm the reason a student gives for leaving campus?",
+    "answer": "The tutor verifies the reason by calling the student's parent or guardian.",
+    "relevant_chunks": [4,
+      5
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "The authenticity of the reason, the student is leaving will be checked by the tutor by calling the parent/guardian.",
+    "type": "factual"
+  },
+  {
+    "id": "h004",
+    "question": "What clothing should girls wear according to the campus dress rules?",
+    "answer": "Girls are expected to wear churidar with a dupatta and loose-fitting attire.",
+    "relevant_chunks": [4,
+      5
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "Girls are expected to wear churidar with a dupatta and loose-fitting attire.",
+    "type": "factual"
+  },
+  {
+    "id": "h005",
+    "question": "Who decides the selection criteria for students representing the college at intercollegiate events?",
+    "answer": "The respective department determines the selection parameters; prior permission from the concerned Head of the Department is required.",
+    "relevant_chunks": [
+      8
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "Students who intend to represent the college in intercollegiate events shall take prior permission from the concerned Head of the Department and the selection parameters will be fixed by the respective department.",
+    "type": "procedural"
+  },
+  {
+    "id": "h006",
+    "question": "What must students do if their activities damage college property?",
+    "answer": "They must bear the repair or replacement cost along with a penalty.",
+    "relevant_chunks": [7,
+      8
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "In the event of damage to college property due to student activities, the students are responsible for bearing the cost of replacement/repair along with a penalty.",
+    "type": "factual"
+  },
+  {
+    "id": "h007",
+    "question": "What permission is required before displaying notices or banners on campus?",
+    "answer": "Permission from the principal is required.",
+    "relevant_chunks": [7,
+      8
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "Students are not permitted to distribute or display materials, notices, pamphlets, banners in the campus without the permission of the principal.",
+    "type": "factual"
+  },
+  {
+    "id": "h008",
+    "question": "What steps follow when misconduct is referred to the discipline committee?",
+    "answer": "The committee conducts a detailed inquiry and presents its report to the higher authority for follow-up action.",
+    "relevant_chunks": [
+      11
+    ],
+    "source_file": "skcet_code_of_conduct.pdf",
+    "source_passage": "In case of misconduct, the matter will be referred to the discipline committee, which will conduct a detailed inquiry. The report of the inquiry will then be presented to the higher authority for follow-up action.",
+    "type": "procedural"
+  },
+  {
+    "id": "h009",
+    "question": "What exact number of days is a student suspended for a first violation?",
+    "answer": "The supplied documents do not specify an exact number of suspension days for a first violation.",
+    "relevant_chunks": [],
+    "source_file": "",
+    "source_passage": "",
+    "type": "negative"
+  },
+  {
+    "id": "h010",
+    "question": "What is the exact closing time of the college library?",
+    "answer": "The supplied documents do not specify the library's closing time.",
+    "relevant_chunks": [],
+    "source_file": "",
+    "source_passage": "",
+    "type": "negative"
+  }
+]

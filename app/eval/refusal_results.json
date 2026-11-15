@@ -1,0 +1,6 @@
+{
+  "negative_questions": 8,
+  "correct_refusals": 8,
+  "hallucinations": [],
+  "refusal_accuracy": 1.0
+}

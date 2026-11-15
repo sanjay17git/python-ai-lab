@@ -1,0 +1,1 @@
+get a working Python environment and be able to compute cosine similarity between vectors in NumPy without looking anything up

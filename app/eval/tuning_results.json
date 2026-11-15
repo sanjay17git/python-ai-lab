@@ -1,0 +1,182 @@
+{
+  "bm25": {
+    "mode": "bm25",
+    "questions_evaluated": 32,
+    "negative_questions_skipped": 8,
+    "Hit@5": 0.375,
+    "Recall@5": 0.3099,
+    "MRR": 0.2881,
+    "MAP": 0.2474,
+    "by_type": {
+      "factual": {
+        "Hit@5": 0.3125,
+        "MRR": 0.2251
+      },
+      "procedural": {
+        "Hit@5": 0.5714,
+        "MRR": 0.3929
+      },
+      "conditional": {
+        "Hit@5": 0.5,
+        "MRR": 0.5357
+      },
+      "multi_chunk": {
+        "Hit@5": 0.4,
+        "MRR": 0.3367
+      },
+      "paraphrase": {
+        "Hit@5": 0.0,
+        "MRR": 0.0556
+      }
+    },
+    "by_difficulty": {
+      "easy": {
+        "Hit@5": 0.375,
+        "MRR": 0.2828
+      },
+      "medium": {
+        "Hit@5": 0.3571,
+        "MRR": 0.2638
+      },
+      "hard": {
+        "Hit@5": 0.5,
+        "MRR": 0.5
+      }
+    }
+  },
+  "dense": {
+    "mode": "dense",
+    "questions_evaluated": 32,
+    "negative_questions_skipped": 8,
+    "Hit@5": 0.5,
+    "Recall@5": 0.4141,
+    "MRR": 0.3404,
+    "MAP": 0.3133,
+    "by_type": {
+      "factual": {
+        "Hit@5": 0.375,
+        "MRR": 0.3597
+      },
+      "procedural": {
+        "Hit@5": 0.5714,
+        "MRR": 0.3857
+      },
+      "conditional": {
+        "Hit@5": 1.0,
+        "MRR": 0.6667
+      },
+      "multi_chunk": {
+        "Hit@5": 0.6,
+        "MRR": 0.181
+      },
+      "paraphrase": {
+        "Hit@5": 0.5,
+        "MRR": 0.1
+      }
+    },
+    "by_difficulty": {
+      "easy": {
+        "Hit@5": 0.375,
+        "MRR": 0.2797
+      },
+      "medium": {
+        "Hit@5": 0.5714,
+        "MRR": 0.4168
+      },
+      "hard": {
+        "Hit@5": 1.0,
+        "MRR": 0.2917
+      }
+    }
+  },
+  "hybrid": {
+    "mode": "hybrid",
+    "questions_evaluated": 32,
+    "negative_questions_skipped": 8,
+    "Hit@5": 0.4688,
+    "Recall@5": 0.4062,
+    "MRR": 0.3223,
+    "MAP": 0.2892,
+    "by_type": {
+      "factual": {
+        "Hit@5": 0.375,
+        "MRR": 0.2923
+      },
+      "procedural": {
+        "Hit@5": 0.5714,
+        "MRR": 0.4286
+      },
+      "conditional": {
+        "Hit@5": 1.0,
+        "MRR": 0.6
+      },
+      "multi_chunk": {
+        "Hit@5": 0.6,
+        "MRR": 0.2563
+      },
+      "paraphrase": {
+        "Hit@5": 0.0,
+        "MRR": 0.0778
+      }
+    },
+    "by_difficulty": {
+      "easy": {
+        "Hit@5": 0.375,
+        "MRR": 0.2979
+      },
+      "medium": {
+        "Hit@5": 0.5714,
+        "MRR": 0.3503
+      },
+      "hard": {
+        "Hit@5": 0.5,
+        "MRR": 0.3214
+      }
+    }
+  },
+  "hybrid+rerank": {
+    "mode": "hybrid+rerank",
+    "questions_evaluated": 32,
+    "negative_questions_skipped": 8,
+    "Hit@5": 0.5312,
+    "Recall@5": 0.4453,
+    "MRR": 0.3516,
+    "MAP": 0.2969,
+    "by_type": {
+      "factual": {
+        "Hit@5": 0.375,
+        "MRR": 0.2083
+      },
+      "procedural": {
+        "Hit@5": 0.5714,
+        "MRR": 0.5
+      },
+      "conditional": {
+        "Hit@5": 1.0,
+        "MRR": 1.0
+      },
+      "multi_chunk": {
+        "Hit@5": 0.8,
+        "MRR": 0.4167
+      },
+      "paraphrase": {
+        "Hit@5": 0.5,
+        "MRR": 0.1667
+      }
+    },
+    "by_difficulty": {
+      "easy": {
+        "Hit@5": 0.3125,
+        "MRR": 0.2396
+      },
+      "medium": {
+        "Hit@5": 0.7143,
+        "MRR": 0.4405
+      },
+      "hard": {
+        "Hit@5": 1.0,
+        "MRR": 0.625
+      }
+    }
+  }
+}

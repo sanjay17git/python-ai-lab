@@ -1,0 +1,102 @@
+[
+    {
+        "id": "q001",
+        "question": "What is the minimum attendance required under the campus code of conduct?",
+        "answer": "A minimum attendance of 75% is required.",
+        "relevant_chunks": [5,6],
+        "source_file": "skcet_code_of_conduct.pdf",
+        "source_passage": "All students are required to maintain a minimum attendance of 75% to meet the mandatory attendance criteria.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "id": "q002",
+        "question": "What must students wear while staying on the college premises?",
+        "answer": "Students must wear their college ID cards at all times while on the college premises.",
+        "relevant_chunks": [4],
+        "source_file": "skcet_code_of_conduct.pdf",
+        "source_passage": "All students are required to wear their college ID cards at all times during their stay on the college premises.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "id": "q003",
+        "question": "When are students expected to be present in class?",
+        "answer": "Students are expected to be present at the scheduled time; latecomers will not be entertained.",
+        "relevant_chunks": [5],
+        "source_file": "skcet_code_of_conduct.pdf",
+        "source_passage": "All students are expected to be present in class at the scheduled time. Latecomers will not be entertained.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "id": "q004",
+        "question": "How should a student submit a leave application?",
+        "answer": "The leave application should be submitted well in advance to the concerned tutor.",
+        "relevant_chunks": [7],
+        "source_file": "skcet_code_of_conduct.pdf",
+        "source_passage": "All leave application shall be submitted well in advance to the concerned tutors.",
+        "difficulty": "easy",
+        "type": "procedural"
+    },
+    {
+        "id": "q005",
+        "question": "What permission is needed for a student to leave class during a session?",
+        "answer": "The student needs permission from the respective teacher.",
+        "relevant_chunks": [6],
+        "source_file": "skcet_code_of_conduct.pdf",
+        "source_passage": "Students are not permitted to leave the class during the session without the permission of the respective teacher.",
+        "difficulty": "easy",
+        "type": "procedural"
+    },
+    {
+        "id": "q006",
+        "question": "What should a student do before representing the college at an intercollegiate event?",
+        "answer": "The student must obtain prior permission from the concerned Head of the Department. The department fixes the selection parameters.",
+        "relevant_chunks": [14],
+        "source_file": "skcet_code_of_conduct.pdf",
+        "source_passage": "Students who intend to represent the college in intercollegiate events shall take prior permission from the concerned Head of the Department and the selection parameters will be fixed by the respective department.",
+        "difficulty": "medium",
+        "type": "procedural"
+    },
+    {
+        "id": "q007",
+        "question": "What financial responsibility does a student have if their activities damage college property?",
+        "answer": "The student is responsible for the replacement or repair cost and a penalty.",
+        "relevant_chunks": [11],
+        "source_file": "skcet_code_of_conduct.pdf",
+        "source_passage": "In the event of damage to college property due to student activities, the students are responsible for bearing the cost of replacement/repair along with a penalty.",
+        "difficulty": "easy",
+        "type": "conditional"
+    },
+    {
+        "id": "q008",
+        "question": "What actions may follow a violation of the campus rules?",
+        "answer": "Possible consequences include a warning, a meeting with parents, corrective measures, or punishment by higher college or state legal authorities.",
+        "relevant_chunks": [13,14],
+        "source_file": "skcet_code_of_conduct.pdf",
+        "source_passage": "Any violation of the above rules will invite penalty in the form of warning, parents meet, corrective measures or punishment by higher authorities of the college and legal authorities of the state.",
+        "difficulty": "medium",
+        "type": "conditional"
+    },
+    {
+        "id": "q009",
+        "question": "At what time does the college library close on weekdays?",
+        "answer": "This information is not stated in the provided document.",
+        "relevant_chunks": [],
+        "source_file": "skcet_code_of_conduct.pdf",
+        "source_passage": "",
+        "difficulty": "easy",
+        "type": "negative"
+    },
+    {
+        "id": "q010",
+        "question": "What is the exact deadline for paying semester examination fees?",
+        "answer": "This information is not stated in the provided document.",
+        "relevant_chunks": [],
+        "source_file": "skcet_code_of_conduct.pdf",
+        "source_passage": "",
+        "difficulty": "easy",
+        "type": "negative"
+    }
+]
