@@ -4,7 +4,9 @@
 > dense retrieval, cross-encoder reranking, and grounded 
 > LLM answers with citations.
 
-[Live Demo](#) | [GitHub](#)
+[Live API](https://python-ai-lab.onrender.com/docs) | 
+[Frontend](#) | 
+[GitHub](#)
 
 ---
 
