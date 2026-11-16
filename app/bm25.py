@@ -37,6 +37,7 @@ class BM25Retriever:
         ]
 
     def _save(self) -> None:
+        CACHE_DIR.mkdir(parents=True, exist_ok=True)
         with open(CACHE_DIR / "bm25.pkl", "wb") as f:
             pickle.dump(self, f)
 
