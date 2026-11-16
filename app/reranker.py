@@ -1,8 +1,20 @@
+_reranker = None
 
-from sentence_transformers import CrossEncoder
 
+def get_reranker():
+    global _reranker
 
-reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
+    if _reranker is None:
+        print("Loading cross-encoder model...")
+
+        # Import only when reranking is actually requested
+        from sentence_transformers import CrossEncoder
+
+        _reranker = CrossEncoder(
+            "cross-encoder/ms-marco-MiniLM-L-6-v2"
+        )
+
+    return _reranker
 
 
 def rerank(
@@ -10,11 +22,14 @@ def rerank(
     candidates: list[tuple[int, float, str]],
     top_n: int = 5
 ) -> list[tuple[int, float, str]]:
-    if not 1 <= top_n <= len(candidates):
-        raise ValueError(
-            "top_n must be between 1 and the number of candidates."
-        )
 
+    if not candidates:
+        return []
+
+    if top_n < 1:
+        raise ValueError("top_n must be at least 1.")
+
+    reranker = get_reranker()
     pairs = [(query, text) for _, _, text in candidates]
     scores = reranker.predict(pairs)
 

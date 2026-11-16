@@ -6,7 +6,11 @@ from app.bm25 import BM25Retriever
 from app.reranker import rerank
 from app.generator import generate_answer
 from pathlib import Path
+import os
 
+ENABLE_RERANKER = (
+    os.getenv("ENABLE_RERANKER", "true").lower() == "true"
+)
 def reciprocal_rank_fusion(
     rankings: list[list[int]],
     k: int = 60,
@@ -52,14 +56,15 @@ class RAGPipeline:
         fused = reciprocal_rank_fusion(
             [bm25_ranking, emb_ranking], top_n=candidate_k
         )
-        reranked = rerank(
-            query,
-            [(doc_id, score, self.chunks[doc_id].text)
-             for doc_id, score in fused],
-            top_n=k
-        )
-        return reranked
+        candidates = [
+            (doc_id, score, self.chunks[doc_id].text)
+            for doc_id, score in fused
+        ]
 
+        if ENABLE_RERANKER:
+            return rerank(query, candidates, top_n=k)
+
+        return candidates[:k]
     
     def ask(self, query: str, k: int = 3) -> dict:
         results = self.search(query, k=k)
@@ -93,7 +98,8 @@ class RAGPipeline:
             for doc_id, score in fused
         ]
 
-        if rerank:
+        if rerank and ENABLE_RERANKER:
             from app.reranker import rerank as do_rerank
             return do_rerank(query, candidates, top_n=k)
+
         return candidates[:k]
